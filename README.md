@@ -13,7 +13,12 @@ https://oi-wiki.org/math/stirling/
 
 概略结果示意：
 
-![Image text](https://github.com/Robotics-Zhikai/Stirling-Number-Grouping/blob/master/ResultImage/%E6%8A%8A1%E8%87%B310%E5%88%86%E6%88%90%E4%B8%8D%E5%90%8C%E7%BB%84%E7%BB%93%E6%9E%9C.png)
+把{1,2,3,4,5,6,7,8,9,10}分成不同组的结果
+![Image text](https://github.com/Robotics-Zhikai/Stirling-Number-Grouping/blob/master/ResultImage/%E6%8A%8A1%E8%87%B310%E5%88%86%E6%88%90%E4%B8%8D%E5%90%8C%E7%BB%84%E7%BB%93%E6%9E%9C.png)![Image text](https://github.com/Robotics-Zhikai/Stirling-Number-Grouping/blob/master/ResultImage/%E6%8A%8A1%E8%87%B310%E5%88%86%E6%88%90%E4%BA%94%E7%BB%84%E7%9A%84%E9%83%A8%E5%88%86%E7%BB%93%E6%9E%9C.png)![Image text](https://github.com/Robotics-Zhikai/Stirling-Number-Grouping/blob/master/ResultImage/%E6%8A%8A1%E8%87%B310%E5%88%86%E6%88%90%E5%85%AD%E7%BB%84%E7%9A%84%E9%83%A8%E5%88%86%E7%BB%93%E6%9E%9C.png)
+
+把{1,2,3,4,5,6,7,8,9,10,11,12}分成不同组的结果
+![Image text](https://github.com/Robotics-Zhikai/Stirling-Number-Grouping/blob/master/ResultImage/%E6%8A%8A1%E8%87%B312%E5%88%86%E6%88%90%E4%B8%8D%E5%90%8C%E7%BB%84%E7%BB%93%E6%9E%9C.png)![Image text](https://github.com/Robotics-Zhikai/Stirling-Number-Grouping/blob/master/ResultImage/%E6%8A%8A1%E8%87%B312%E5%88%86%E6%88%90%E5%85%AD%E7%BB%84%E7%9A%84%E9%83%A8%E5%88%86%E7%BB%93%E6%9E%9C.png)
+
 
 
 
