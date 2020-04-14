@@ -13,5 +13,7 @@ https://oi-wiki.org/math/stirling/
 
 概略结果示意：
 
+![Image text](../ResultImage/%E6%8A%8A1%E8%87%B310%E5%88%86%E6%88%90%E4%B8%8D%E5%90%8C%E7%BB%84%E7%BB%93%E6%9E%9C.png)
+
 
 
